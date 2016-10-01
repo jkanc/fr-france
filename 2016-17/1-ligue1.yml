@@ -1,0 +1,37 @@
+############################
+# Ligue 1 2016/17
+
+
+league: fr
+season: 2016/17
+start_at: 2016-08-12
+
+fixtures:
+- 1-ligue1-i
+- 1-ligue1-ii
+
+
+######################
+# 20 Teams
+
+teams:
+- Angers SCO
+- Bastia (SC Bastia)
+- Bordeaux (Girondins de Bordeaux)
+- Caen (SM Caen)
+- Dijon FCO
+- Guingamp (En Avant Guingamp)
+- Lille (LOSC)
+- Lorient (FC Lorient)
+- Lyon (Olympique de Lyon)
+- Marseille (Olympique de Marseille)
+- Metz (FC Metz)
+- Monaco (AS Moncao)
+- Montpellier (Montpellier Hérault SC)
+- Nancy (AS Nancy Lorraine)
+- Nantes (FC Nantes)
+- Nice (OGC Nice)
+- Paris (Paris Saint-Germain)
+- Rennes (Stade Rennais FC)
+- Saint-Etienne (AS Saint-Etienne)
+- Toulouse (Toulouse FC)
